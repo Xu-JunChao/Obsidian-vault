@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e225d49947c491ca",
+        "id": "d3bec893135d2055",
         "type": "tabs",
         "children": [
           {
-            "id": "5b1af47b92eab8fd",
+            "id": "dee1c6b2f5cb3583",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,7 +170,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "5b1af47b92eab8fd",
+  "active": "2eb778046892244e",
   "lastOpenFiles": [
     "未命名.md",
     "2026-05-29.md",
