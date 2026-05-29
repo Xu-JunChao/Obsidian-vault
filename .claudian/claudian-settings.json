@@ -1,17 +1,17 @@
 {
   "userName": "",
   "permissionMode": "normal",
-  "model": "opus",
+  "model": "qwen3.5-plus",
   "thinkingBudget": "medium",
   "effortLevel": "high",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
-  "titleGenerationModel": "opencode:bailian-coding-plan/qwen3.5-plus",
+  "titleGenerationModel": "",
   "excludedTags": [],
   "mediaFolder": "",
   "systemPrompt": "",
   "persistentExternalContextPaths": [],
-  "sharedEnvironmentVariables": "",
+  "sharedEnvironmentVariables": "ANTHROPIC_BASE_URL=https://coding.dashscope.aliyuncs.com/apps/anthropic\nANTHROPIC_AUTH_TOKEN=sk-sp-d0e2c706668a436388697a9226911ee8\nANTHROPIC_MODEL=qwen3.5-plus\nANTHROPIC_DEFAULT_SONNET_MODEL=qwen3.5-plus\nANTHROPIC_DEFAULT_OPUS_MODEL=qwen3.5-plus\nANTHROPIC_DEFAULT_HAIKU_MODEL=qwen3.5-plus\n",
   "envSnippets": [],
   "customContextLimits": {},
   "keyboardNavigation": {
@@ -34,7 +34,7 @@
       "customModels": "",
       "lastModel": "opus",
       "environmentVariables": "",
-      "environmentHash": ""
+      "environmentHash": "ANTHROPIC_BASE_URL=https://coding.dashscope.aliyuncs.com/apps/anthropic|ANTHROPIC_DEFAULT_HAIKU_MODEL=qwen3.5-plus|ANTHROPIC_DEFAULT_OPUS_MODEL=qwen3.5-plus|ANTHROPIC_DEFAULT_SONNET_MODEL=qwen3.5-plus|ANTHROPIC_MODEL=qwen3.5-plus"
     },
     "codex": {
       "enabled": false,
@@ -69,7 +69,7 @@
   },
   "settingsProvider": "claude",
   "savedProviderModel": {
-    "claude": "opus",
+    "claude": "qwen3.5-plus",
     "opencode": "opencode:bailian-coding-plan/qwen3.5-plus"
   },
   "savedProviderEffort": {

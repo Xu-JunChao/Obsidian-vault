@@ -85,37 +85,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2103bd0692232af3",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "反向链接"
-            }
-          },
-          {
-            "id": "869aff6ba51600cd",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "出链"
-            }
-          },
-          {
             "id": "d15562f641fcc1dc",
             "type": "leaf",
             "state": {
@@ -128,35 +97,6 @@
               },
               "icon": "lucide-tags",
               "title": "标签"
-            }
-          },
-          {
-            "id": "bbbb1772a7844c66",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
-            }
-          },
-          {
-            "id": "2205b835c15cfd05",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Company/知识库/数据中台-知识中台非结构化数据集成方案.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "数据中台-知识中台非结构化数据集成方案 的大纲"
             }
           },
           {
@@ -180,17 +120,35 @@
             }
           },
           {
-            "id": "3eddcfae479eeb89",
+            "id": "644fe59354d5f2e4",
             "type": "leaf",
             "state": {
-              "type": "claudian-view",
-              "state": {},
-              "icon": "bot",
-              "title": "Claudian"
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "e3e0a334a294ecf2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -208,15 +166,16 @@
       "obsidian-git:Open Git source control": false,
       "terminal:Open terminal": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "realclaudian:Open Claudian": false
+      "realclaudian:Open Claudian": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "6673881487f0d4c8",
+  "active": "5b1af47b92eab8fd",
   "lastOpenFiles": [
+    "未命名.md",
     "2026-05-29.md",
     "未命名.canvas",
     "未命名.base",
-    "未命名.md",
     "未命名 1.base",
     "未命名 2.base",
     "Company/知识库/数据中台-知识中台非结构化数据集成方案.md",
