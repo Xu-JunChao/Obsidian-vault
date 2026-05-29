@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "751f4f5d39db4958",
+        "id": "e225d49947c491ca",
         "type": "tabs",
         "children": [
           {
-            "id": "66fdcb06eaab83ae",
+            "id": "5b1af47b92eab8fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Company/知识库/数据中台-知识中台非结构化数据集成方案.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "数据中台-知识中台非结构化数据集成方案"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Company/知识库/数据中台-知识中台非结构化数据集成方案.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "数据中台-知识中台非结构化数据集成方案 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Company/知识库/数据中台-知识中台非结构化数据集成方案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "数据中台-知识中台非结构化数据集成方案 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -174,13 +168,33 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "8cc8a0c24d0c0a68",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          },
+          {
+            "id": "3eddcfae479eeb89",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 629.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,20 +203,27 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-git:Open Git source control": false,
       "terminal:Open terminal": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "66fdcb06eaab83ae",
+  "active": "6673881487f0d4c8",
   "lastOpenFiles": [
-    "Company/知识库/数据中台-知识中台非结构化数据集成方案.md",
+    "2026-05-29.md",
     "未命名.canvas",
-    "Company/知识库/知识库调研.md",
     "未命名.base",
+    "未命名.md",
+    "未命名 1.base",
+    "未命名 2.base",
+    "Company/知识库/数据中台-知识中台非结构化数据集成方案.md",
+    "Java/Redis/持久化机制.md",
+    "Temp/知识库内容.md",
+    "Temp",
+    "Company/知识库/知识库调研.md",
     "Company/功能调试/智能分批调试.md",
     "Company/功能调试/批流资源清理.md",
     "Company/功能调试",
@@ -212,16 +233,12 @@
     "Java/Redis/企业级开发的高频痛点与解决方案.md",
     "Company/知识库",
     "Excalidraw/Drawing 2026-04-06 11.27.17.excalidraw.md",
-    "Java/Redis/持久化机制.md",
     "Command/powershell/powershell.md",
     "Company/批流平台/批流任务添加环境变量.md",
     "Excalidraw",
     "Java/Spring/Spring MVC 请求处理完整流程.md",
     "Command/powershell",
-    "Command",
-    "Company/批流平台",
     "Company/告警中心/鉴权.md",
-    "Company/告警中心",
     "Java/Basic/CORS.md",
     "Java/Basic/jwt.md",
     "Java/Basic/http与websocket.md",
@@ -232,8 +249,6 @@
     "Java/Spring/Spring 核心原理：IoC 与 DI.md",
     "Java/Redis/性能原理.md",
     "Java/Redis/数据类型.md",
-    "Java/Redis/内存管理与回收机制.md",
-    "Java/Redis/缓存与数据库一致性方案.md",
-    "Java/Redis/Redis 分布式锁核心实现与原理.md"
+    "Java/Redis/内存管理与回收机制.md"
   ]
 }
