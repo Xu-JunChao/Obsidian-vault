@@ -1,11 +1,23 @@
 {
   "id": "conv-1780023042067-dn3vypufm",
   "providerId": "claude",
-  "title": "fd",
-  "titleGenerationStatus": "failed",
+  "title": "fds",
+  "titleGenerationStatus": "pending",
   "createdAt": 1780023042070,
-  "updatedAt": 1780036347161,
-  "lastResponseAt": 1780036338363,
-  "sessionId": null,
-  "providerState": {}
+  "updatedAt": 1780275362717,
+  "lastResponseAt": 1780275362717,
+  "sessionId": "f9d3ca39-1bcb-4d11-a3ac-6fdea8d9d681",
+  "providerState": {
+    "providerSessionId": "f9d3ca39-1bcb-4d11-a3ac-6fdea8d9d681"
+  },
+  "usage": {
+    "model": "qwen3.5-plus",
+    "inputTokens": 20480,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 21741,
+    "contextWindow": 200000,
+    "contextTokens": 42221,
+    "percentage": 21,
+    "contextWindowIsAuthoritative": true
+  }
 }

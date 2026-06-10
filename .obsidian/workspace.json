@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d3bec893135d2055",
+        "id": "7442dbcb4215a132",
         "type": "tabs",
         "children": [
           {
-            "id": "dee1c6b2f5cb3583",
+            "id": "5dab92688455a720",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Temp/未命名.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "未命名"
             }
           }
         ]
@@ -125,12 +130,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Company/功能调试/批流资源清理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "批流资源清理 的大纲"
             }
           },
           {
@@ -145,6 +151,16 @@
               },
               "icon": "lucide-archive",
               "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "f9e1427eaa390ffd",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
             }
           }
         ],
@@ -164,14 +180,14 @@
       "bases:新建数据库": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-git:Open Git source control": false,
-      "terminal:Open terminal": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "realclaudian:Open Claudian": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "2eb778046892244e",
+  "active": "6673881487f0d4c8",
   "lastOpenFiles": [
+    "Temp/知识库内容.md",
+    "Temp/未命名.md",
     "未命名.md",
     "2026-05-29.md",
     "未命名.canvas",
@@ -180,7 +196,6 @@
     "未命名 2.base",
     "Company/知识库/数据中台-知识中台非结构化数据集成方案.md",
     "Java/Redis/持久化机制.md",
-    "Temp/知识库内容.md",
     "Temp",
     "Company/知识库/知识库调研.md",
     "Company/功能调试/智能分批调试.md",
@@ -207,7 +222,6 @@
     "Java/Spring/Spring AOP 底层原理与动态代理.md",
     "Java/Spring/Spring 核心原理：IoC 与 DI.md",
     "Java/Redis/性能原理.md",
-    "Java/Redis/数据类型.md",
-    "Java/Redis/内存管理与回收机制.md"
+    "Java/Redis/数据类型.md"
   ]
 }

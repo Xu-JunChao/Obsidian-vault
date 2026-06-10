@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780275366854-dqh2x4kam",
+  "providerId": "claude",
+  "title": "Address Disbelief in AI Response",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780275366854,
+  "updatedAt": 1780275425782,
+  "lastResponseAt": 1780275425782,
+  "sessionId": "619a3641-29d1-45ed-9473-261a89f87b2c",
+  "providerState": {
+    "providerSessionId": "619a3641-29d1-45ed-9473-261a89f87b2c"
+  },
+  "usage": {
+    "model": "qwen3.5-plus",
+    "inputTokens": 20482,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 21742,
+    "contextWindow": 200000,
+    "contextTokens": 42224,
+    "percentage": 21,
+    "contextWindowIsAuthoritative": true
+  }
+}

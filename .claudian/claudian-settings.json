@@ -1,8 +1,8 @@
 {
   "userName": "",
-  "permissionMode": "normal",
+  "permissionMode": "yolo",
   "model": "qwen3.5-plus",
-  "thinkingBudget": "medium",
+  "thinkingBudget": "off",
   "effortLevel": "high",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
@@ -55,7 +55,7 @@
       "cliPathsByHost": {
         "device:5d95fd79-2a67-4fb5-aee5-f720e28b98dd": "/home/xjc/.opencode/bin/opencode"
       },
-      "enabled": true,
+      "enabled": false,
       "environmentHash": "",
       "environmentVariables": "OPENCODE_ENABLE_EXA=1",
       "modelAliases": {},
@@ -78,12 +78,12 @@
   },
   "savedProviderServiceTier": {},
   "savedProviderThinkingBudget": {
-    "claude": "medium"
+    "claude": "off"
   },
   "savedProviderPermissionMode": {
-    "claude": "normal"
+    "claude": "yolo"
   },
-  "lastCustomModel": "",
+  "lastCustomModel": "qwen3.5-plus",
   "maxTabs": 4,
   "tabBarPosition": "input",
   "enableAutoScroll": true,
