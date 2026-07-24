@@ -21,7 +21,3 @@ conda clean --all
 go clean -modcache
 ```
  
-```
-
-
-```
